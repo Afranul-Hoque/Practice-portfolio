@@ -46,7 +46,7 @@ h2{
 {
     display:flex;
     background-color: rgb(31, 8, 238);
-    
+    border-bottom:2px solid green;
     background-repeat:no-repeat;
     
 }
@@ -73,7 +73,7 @@ list-style-type: none;
 li a{
     text-decoration: none;
     display:block;
-    padding-left:30px;
+    padding-left:15px;
     color:white;
     font-weight: 700;
     text-transform: uppercase;
@@ -98,4 +98,35 @@ li {
     border: none;
     
 }
+
+
+#second-section
+{
+    display:flex;
+    margin-top:150px;
+}
+
+.second-image
+{
+    width: 60%;
+    margin-left:150px;
+}
+#third-section
+{
+    margin-top:150px;
+    margin: 5%;
+}
+
+.flexible-container
+{
+    display:flex;
+    
+}
+.experiences
+{
+    margin:0;
+
+}
+
+
 
